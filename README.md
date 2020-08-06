@@ -8,3 +8,8 @@
   - dev下的第四次提交
   - dev下的第5次提交
   - dev下的第6次提交
+
+# 尝试git pull rebase和git pull的区别
+
+  - git pull = git fetch + git merge
+  - git pull rebase = git fetch + git rebase
