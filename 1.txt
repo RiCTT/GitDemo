@@ -1,2 +1,0 @@
-// 我是master下的txt文件，尝试merge test分支
-// 我是txt分支下对东西，尝试被merge
