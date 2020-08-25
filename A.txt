@@ -1,0 +1,16 @@
+git分布
+
+b1 -> A、B
+
+b1 -> b2 -> A
+b1 -> B
+
+b1 -> b2 -> b3 -> A
+b1 -> B
+
+现在同事开发有两位同事，分别是A、B同事
+当前我是A同事，我在master上提交了一个commit，comment为: feat: log from A
+
+我又重新修改了内容，comment为: feat: log from A2
+并且提交到master上了，master最新的节点为b3，
+B同事一直在b1节点上
